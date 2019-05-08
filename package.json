@@ -4,7 +4,7 @@
   "description": "This is for CyberFramework.",
   "main": "index.js",
   "scripts": {
-    "test": "protractor ./CyberBank/Configuration/conf2.js --suite smoke"
+    "test": "protractor ./CyberBank/Configuration/conf2.js --suite regression"
   },
   "keywords": [
     "protractor"
