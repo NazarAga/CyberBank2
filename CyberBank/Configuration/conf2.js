@@ -13,14 +13,14 @@ exports.config = {
 	// restartBrowserBetweenTests: true,
 
     multiCapabilities: [
-		{
-        browserName: 'firefox',
-        version: '61.0',
-        platform: 'macOS 10.14',
-        name: "firefox-tests",
-        shardTestFiles: true,
-        maxInstances: 25
-	}, 
+// 		{
+//         browserName: 'firefox',
+//         version: '61.0',
+//         platform: 'macOS 10.14',
+//         name: "firefox-tests",
+//         shardTestFiles: true,
+//         maxInstances: 25
+// 	}, 
 	{
         browserName: 'chrome',
         version: '70.0',
