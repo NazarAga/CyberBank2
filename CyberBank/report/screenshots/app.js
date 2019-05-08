@@ -171,181 +171,19 @@ app.controller('ScreenshotReportController', function ($scope) {
         "description": "should check if element is displayed|Demonstrating Jasmine spec reporter",
         "passed": true,
         "pending": false,
-        "os": "Mac OS X",
-        "sessionId": "1230b306343d9bbbd1b52ab73c9ba28f",
-        "instanceId": 28618,
+        "os": "Windows NT",
+        "sessionId": "f3e94080ce0c13e47362e8342b88ddc9",
+        "instanceId": 23188,
         "browser": {
             "name": "chrome",
-            "version": "71.0.3578.98"
+            "version": "74.0.3729.131"
         },
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "images/009c00b2-001f-0080-00c7-002800cd008c.png",
-        "timestamp": 1546928394200,
-        "duration": 3943
-    },
-    {
-        "description": "should have a correct page title|Manager Login|Bank Manager",
-        "passed": true,
-        "pending": false,
-        "os": "Mac OS X",
-        "sessionId": "1230b306343d9bbbd1b52ab73c9ba28f",
-        "instanceId": 28618,
-        "browser": {
-            "name": "chrome",
-            "version": "71.0.3578.98"
-        },
-        "message": "Passed.",
-        "trace": "",
-        "browserLogs": [],
-        "screenShotFile": "images/006b0006-0053-00b0-008a-00320015002c.png",
-        "timestamp": 1546928398928,
-        "duration": 3786
-    },
-    {
-        "description": "should display home button|Manager Login|Bank Manager",
-        "passed": true,
-        "pending": false,
-        "os": "Mac OS X",
-        "sessionId": "1230b306343d9bbbd1b52ab73c9ba28f",
-        "instanceId": 28618,
-        "browser": {
-            "name": "chrome",
-            "version": "71.0.3578.98"
-        },
-        "message": "Passed.",
-        "trace": "",
-        "browserLogs": [],
-        "screenShotFile": "images/002300f4-000c-00b6-00e4-004b00680073.png",
-        "timestamp": 1546928403102,
-        "duration": 1802
-    },
-    {
-        "description": "should display page header|Manager Login|Bank Manager",
-        "passed": true,
-        "pending": false,
-        "os": "Mac OS X",
-        "sessionId": "1230b306343d9bbbd1b52ab73c9ba28f",
-        "instanceId": 28618,
-        "browser": {
-            "name": "chrome",
-            "version": "71.0.3578.98"
-        },
-        "message": "Passed.",
-        "trace": "",
-        "browserLogs": [],
-        "screenShotFile": "images/0044003e-007a-00cb-00b8-00cb005a0043.png",
-        "timestamp": 1546928405282,
-        "duration": 1110
-    },
-    {
-        "description": "should display page header|Manager Login|Bank Manager",
-        "passed": true,
-        "pending": false,
-        "os": "Mac OS X",
-        "sessionId": "1230b306343d9bbbd1b52ab73c9ba28f",
-        "instanceId": 28618,
-        "browser": {
-            "name": "chrome",
-            "version": "71.0.3578.98"
-        },
-        "message": "Passed.",
-        "trace": "",
-        "browserLogs": [],
-        "screenShotFile": "images/003200eb-00ed-0006-0012-009000670080.png",
-        "timestamp": 1546928406785,
-        "duration": 1095
-    },
-    {
-        "description": "should display login button for Bank Manager|Manager Login|Bank Manager",
-        "passed": true,
-        "pending": false,
-        "os": "Mac OS X",
-        "sessionId": "1230b306343d9bbbd1b52ab73c9ba28f",
-        "instanceId": 28618,
-        "browser": {
-            "name": "chrome",
-            "version": "71.0.3578.98"
-        },
-        "message": "Passed.",
-        "trace": "",
-        "browserLogs": [],
-        "screenShotFile": "images/002a00cf-003c-00e9-0097-00d700220093.png",
-        "timestamp": 1546928408275,
-        "duration": 1026
-    },
-    {
-        "description": "should stay at homepage when home button is clicked|Manager Login|Bank Manager",
-        "passed": true,
-        "pending": false,
-        "os": "Mac OS X",
-        "sessionId": "1230b306343d9bbbd1b52ab73c9ba28f",
-        "instanceId": 28618,
-        "browser": {
-            "name": "chrome",
-            "version": "71.0.3578.98"
-        },
-        "message": "Passed.",
-        "trace": "",
-        "browserLogs": [],
-        "screenShotFile": "images/00720025-00b0-00a3-0090-00df00790041.png",
-        "timestamp": 1546928409648,
-        "duration": 1029
-    },
-    {
-        "description": "should login as a Bank Manager|Manager Login|Bank Manager",
-        "passed": true,
-        "pending": false,
-        "os": "Mac OS X",
-        "sessionId": "1230b306343d9bbbd1b52ab73c9ba28f",
-        "instanceId": 28618,
-        "browser": {
-            "name": "chrome",
-            "version": "71.0.3578.98"
-        },
-        "message": "Passed.",
-        "trace": "",
-        "browserLogs": [],
-        "screenShotFile": "images/00dc0027-0040-00b3-003e-008500c800be.png",
-        "timestamp": 1546928411035,
-        "duration": 1884
-    },
-    {
-        "description": "should confirm all buttons are present|Manager Login|Bank Manager",
-        "passed": true,
-        "pending": false,
-        "os": "Mac OS X",
-        "sessionId": "1230b306343d9bbbd1b52ab73c9ba28f",
-        "instanceId": 28618,
-        "browser": {
-            "name": "chrome",
-            "version": "71.0.3578.98"
-        },
-        "message": "Passed.",
-        "trace": "",
-        "browserLogs": [],
-        "screenShotFile": "images/00b000a6-0079-002f-003b-00b5009a00e9.png",
-        "timestamp": 1546928413474,
-        "duration": 8598
-    },
-    {
-        "description": "should take us back to home page|Manager Login|Bank Manager",
-        "passed": true,
-        "pending": false,
-        "os": "Mac OS X",
-        "sessionId": "1230b306343d9bbbd1b52ab73c9ba28f",
-        "instanceId": 28618,
-        "browser": {
-            "name": "chrome",
-            "version": "71.0.3578.98"
-        },
-        "message": "Passed.",
-        "trace": "",
-        "browserLogs": [],
-        "screenShotFile": "images/0020008f-00dc-000a-00f7-0056006a0025.png",
-        "timestamp": 1546928422824,
-        "duration": 1079
+        "screenShotFile": "images\\00df00a0-002d-0020-00e8-006900f200e2.png",
+        "timestamp": 1557280410884,
+        "duration": 3845
     }
 ];
 

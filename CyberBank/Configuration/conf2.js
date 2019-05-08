@@ -1,5 +1,5 @@
 exports.config = {
-	// specs: ['../Tests/Demo.spec.js'],
+//	specs: ['../Tests/Demo.spec.js'],
 
 	suites:{
 
